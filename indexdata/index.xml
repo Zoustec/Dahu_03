@@ -81,7 +81,7 @@
        latitude="24.379258333332999"
        longitude="120.84924166667"
        heading="0"
-       thumburl="%FIRSTXML%/_03_1_57/thumbnail.jpg"
+       thumburl="%FIRSTXML%/03_1_57/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        haspolygons="false"
@@ -106,32 +106,32 @@
           fov="90.000000"
           hlookat="35.550000"
           vlookat="-5.850000"/>
-    <preview url="%FIRSTXML%/_03_1_57/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
+    <preview url="%FIRSTXML%/03_1_57/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
     <image type="CUBE" multires="true" baseindex="0" tilesize="512" devices="!androidstock|webgl">
       <level tiledimagewidth="2048" tiledimageheight="2048">
-          <front url="_03_1_57/0/1/%v_%u.jpg"/>
-          <right url="_03_1_57/1/1/%v_%u.jpg"/>
-          <back  url="_03_1_57/2/1/%v_%u.jpg"/>
-          <left  url="_03_1_57/3/1/%v_%u.jpg"/>
-          <up    url="_03_1_57/4/1/%v_%u.jpg"/>
-          <down  url="_03_1_57/5/1/%v_%u.jpg"/>
+          <front url="03_1_57/0/1/%v_%u.jpg"/>
+          <right url="03_1_57/1/1/%v_%u.jpg"/>
+          <back  url="03_1_57/2/1/%v_%u.jpg"/>
+          <left  url="03_1_57/3/1/%v_%u.jpg"/>
+          <up    url="03_1_57/4/1/%v_%u.jpg"/>
+          <down  url="03_1_57/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1024" tiledimageheight="1024">
-          <front url="_03_1_57/0/0/%v_%u.jpg"/>
-          <right url="_03_1_57/1/0/%v_%u.jpg"/>
-          <back  url="_03_1_57/2/0/%v_%u.jpg"/>
-          <left  url="_03_1_57/3/0/%v_%u.jpg"/>
-          <up    url="_03_1_57/4/0/%v_%u.jpg"/>
-          <down  url="_03_1_57/5/0/%v_%u.jpg"/>
+          <front url="03_1_57/0/0/%v_%u.jpg"/>
+          <right url="03_1_57/1/0/%v_%u.jpg"/>
+          <back  url="03_1_57/2/0/%v_%u.jpg"/>
+          <left  url="03_1_57/3/0/%v_%u.jpg"/>
+          <up    url="03_1_57/4/0/%v_%u.jpg"/>
+          <down  url="03_1_57/5/0/%v_%u.jpg"/>
       </level>
     </image>
     <image type="CUBE" devices="androidstock.and.no-webgl">
-      <front url="_03_1_57/mobile/0.jpg"/>
-      <right url="_03_1_57/mobile/1.jpg"/>
-      <back  url="_03_1_57/mobile/2.jpg"/>
-      <left  url="_03_1_57/mobile/3.jpg"/>
-      <up    url="_03_1_57/mobile/4.jpg"/>
-      <down  url="_03_1_57/mobile/5.jpg"/>
+      <front url="03_1_57/mobile/0.jpg"/>
+      <right url="03_1_57/mobile/1.jpg"/>
+      <back  url="03_1_57/mobile/2.jpg"/>
+      <left  url="03_1_57/mobile/3.jpg"/>
+      <up    url="03_1_57/mobile/4.jpg"/>
+      <down  url="03_1_57/mobile/5.jpg"/>
     </image>
 
 
